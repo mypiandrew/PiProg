@@ -1,11 +1,11 @@
 PI-PROG Gerber Files - Issue 1.1
+56 x 110 mm
 
 IMPEDANCE NOTE
 
 JLC3313    4 LAYER STACKUP
 (Layer 1)  5.95mil /  7mil = 90R EC USB Traces -- Reference Plane = Layer 2
 
-56 x 110 mm
 
 4 LAYER PCB
 FR4 1.6mm PCB
@@ -32,4 +32,8 @@ smd001.pho  				- Top Side Solder Paste File
 
 PICKANDPLACE-BOT.TXT			- SMT TOP PICK AND PLACE FILE
 
-GWK1.gwk				- GC-PREVUE FILE		
+JLC PCB ASSEMBLY NOTE:
+
+- When uploaded for JLC PCBA service J1 & J2 may need to be re-aligned after upload using web interface.
+- JLC's DFM check footprint for J2 is a miss-match for our footprint, our footprint works fine.
+
