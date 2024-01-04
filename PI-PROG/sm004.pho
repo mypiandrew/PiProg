@@ -3,7 +3,7 @@
 G04 PADS 9.5 Build Number: 522968 generated Gerber (RS-274-X) file*
 G04 PC Version=2.1*
 *
-%IN "Pi-Program-Iss1.pcb"*%
+%IN "Pi-Program-Iss1.2.pcb"*%
 *
 %MOIN*%
 *
@@ -57,17 +57,17 @@ G04 PC Aperture Table*
 *
 *
 G04 PC Circuitry*
-G04 Layer Name Pi-Program-Iss1.pcb - circuitry*
+G04 Layer Name Pi-Program-Iss1.2.pcb - circuitry*
 %LPD*%
 *
 *
 G04 PC Custom Flashes*
-G04 Layer Name Pi-Program-Iss1.pcb - flashes*
+G04 Layer Name Pi-Program-Iss1.2.pcb - flashes*
 %LPD*%
 *
 *
 G04 PC Circuitry*
-G04 Layer Name Pi-Program-Iss1.pcb - circuitry*
+G04 Layer Name Pi-Program-Iss1.2.pcb - circuitry*
 %LPD*%
 *
 G54D10*
@@ -92,11 +92,13 @@ X551201Y798772D03*
 Y803272D03*
 X556201Y798772D03*
 Y807772D03*
-X551201Y749272D03*
-X556201D03*
-X551201Y753772D03*
-X556201D03*
-X551201Y758272D03*
-X556201D03*
+X535701Y759201D03*
+X553201D03*
+X535701Y754701D03*
+X553201D03*
+X547201Y762701D03*
+X541701Y762772D03*
+Y751201D03*
+X547201D03*
 X0Y0D02*
 M02*
